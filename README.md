@@ -4,7 +4,7 @@
 Python Program that Creates a Dictionary 
 with Key as First Character and Value as Words Starting with that Character
 
-User Inputs the String or About Me Section as a sentence
+User Inputs the String or About Me Section as a sentence. /n
 This string that is input each is assigned to a variable.
 This string is split into and then assigned a variable which in this case is are letter characters.
 An empty dictionary is created.
