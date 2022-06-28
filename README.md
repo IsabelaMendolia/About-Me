@@ -15,6 +15,6 @@ You can enter anything into the string input such as paragraphs.
 tested with:
 
 My name is Isabela. 
-I am a designer, coder, and life learner of making things that are aligned with my own harmony. 
+I am a designer, coder, and life learner of making things that are harmoniously aligned.
 To Create something beautiful, or meaningful, fun or maybe
 with no purpose at all --to simply exist and learn.
