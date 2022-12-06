@@ -15,6 +15,6 @@ You can enter anything into the string input such as paragraphs.
 tested with:
 
 My name is Isabela. 
-I am a designer, coder, and life learner of making things that are harmoniously aligned.
-To Create something beautiful, or meaningful, fun or maybe
+making things with harmony.
+To Create something beautiful, or meaningful, purposeful or maybe
 with no purpose at all --to simply exist, learn, create and collaborate.
